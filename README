@@ -1,0 +1,12 @@
+Crypto Taxes
+
+Author: Quan Nguyen (https://github.com/themanitou)
+
+Calculate profit from a log file containing the crypto transactions.
+I hope this is useful for you as it has been for me to declare
+my income tax.
+
+Prerequisite:
+
+- Python 3.8
+- Pandas
