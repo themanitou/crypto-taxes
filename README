@@ -10,3 +10,7 @@ Prerequisite:
 
 - Python 3.8
 - Pandas
+
+Run:
+
+python3 main.py -f sample.log
