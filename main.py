@@ -32,7 +32,7 @@ def process(data):
     profits = {}
     for asset in assets:
         asset_data = data.loc[asset]
-        print(f'{ asset = }, { len(asset_data.shape) = }, {asset_data = }')
+        print(f'{ asset = }, { len(asset_data.shape) = }, { asset_data = }')
 
         if len(asset_data.shape) == 1:
             continue
